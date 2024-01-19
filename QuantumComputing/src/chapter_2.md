@@ -42,13 +42,8 @@ one of the equally spaced points $\{x_0, x_1, \cdots , x_{n-1}\}$ shown
 in Figure [1.2](#fig:positions-in-a-line){reference-type="ref"
 reference="fig:positions-in-a-line"}.
 
-```
-<object data="figures/line-position.pdf" type="application/pdf" width="700px" height="700px">
-</object>
-```
-
 ![Positions in a
-line](figures/line-position.pdf){#fig:positions-in-a-line width="70%"}
+line](figures/line-position-1.png){#fig:positions-in-a-line width="70%"}
 
 The particle being at the point $x_k$ is denoted as $\ket{x_k}$, using
 the Dirac **ket** notation $\ket{\cdot}$. To each of these $n$ **basic
@@ -133,9 +128,8 @@ and discuss the observation results.
     What we find is that if we originally prepared $\sigma_z = +1$, the
     upside down apparatus records $\sigma_z = -1$.
 
-    ![$180^{\circ}$ Stern-Gerlach apparatus (SGA)
-    experiment.](SGA-180){#fig:SGA-180 width="80%"}
-
+    iframe width="20%" height="300" src="figures/SGA-180.pdf">
+    
 -   **Step 3: $90^{\circ}$ SGA experiment.** So far, there is still no
     difference between classical physics and quantum physics. The
     difference only becomes apparent when we rotate the apparatus
