@@ -1,12 +1,10 @@
 {
     "functions": {
-      "api/**/*.py": {
-        "runtime": "vercel-python@0.4.0"
-      }
+      "api": { "runtime": "vercel-python@0.4.0" }
     },
     "routes": [
-      { "handle": "filesystem" },
-      { "src": "/(.*)", "dest": "/app.py" }
+      { "src": "/(.*)", "dest": "/flask/app.py" }
     ]
   }
+  
   
