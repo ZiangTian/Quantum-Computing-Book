@@ -1,0 +1,534 @@
+(Loading /usr/share/perl5/LaTeXML/Package/TeX.pool.ltxml...
+(Loading /usr/share/perl5/LaTeXML/Package/eTeX.pool.ltxml... 0.00 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/pdfTeX.pool.ltxml... 0.00 sec) 0.06 sec)
+latexmlc (LaTeXML version 0.8.6)
+invoked as [/usr/bin/latexmlc --includestyles --dest=doc.html main.tex --path=.]
+processing started Sat Jan 20 21:27:14 2024
+(Digesting TeX main...
+(Processing content /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/main.tex...
+(Loading /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml...
+(Loading /usr/share/perl5/LaTeXML/Package/textcomp.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu... 0.01 sec) 0.06 sec) 0.14 sec)
+(Processing definitions /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/easyclass.cls...
+Warning:missing_file:scrbook Can't find binding for class scrbook (using OmniBus)
+	at easyclass.cls; line 11 col 15 - line 11 col 15
+	Anticipate undefined macros or environments
+	search paths are /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing, /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing, /mnt/e/CODING/Quantum-Computing-Book/Lecture\ Note\ for\ Quantum\ Computing
+	In Core::Definition::Constructor[\LoadCl... /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 830
+(Loading /usr/share/perl5/LaTeXML/Package/OmniBus.cls.ltxml...
+(Loading /usr/share/perl5/LaTeXML/Package/article.cls.ltxml... 0.01 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/inst_support.sty.ltxml... 0.00 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/epsf.sty.ltxml... 0.00 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/graphicx.sty.ltxml...
+(Loading /usr/share/perl5/LaTeXML/Package/graphics.sty.ltxml... 0.00 sec) 0.01 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/aas_macros.sty.ltxml... 0.00 sec) 0.04 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/mathtools.sty.ltxml...
+(Loading /usr/share/perl5/LaTeXML/Package/keyval.sty.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty... 0.01 sec) 0.01 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/calc.sty.ltxml... 0.00 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/amsmath.sty.ltxml...
+(Loading /usr/share/perl5/LaTeXML/Package/amsbsy.sty.ltxml...
+(Loading /usr/share/perl5/LaTeXML/Package/amsgen.sty.ltxml... 0.00 sec) 0.01 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/amstext.sty.ltxml... 0.00 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/amsopn.sty.ltxml... 0.00 sec) 0.03 sec) 0.06 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/amssymb.sty.ltxml...
+(Loading /usr/share/perl5/LaTeXML/Package/amsfonts.sty.ltxml... 0.00 sec) 0.01 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/bm.sty.ltxml... 0.00 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/bbold.sty.ltxml... 0.00 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/enumerate.sty.ltxml... 0.00 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/xcolor.sty.ltxml...
+(Loading /usr/share/perl5/LaTeXML/Package/color.sty.ltxml... 0.00 sec)
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def... 0.04 sec) 0.07 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/hyperref.sty.ltxml...
+(Loading /usr/share/perl5/LaTeXML/Package/nameref.sty.ltxml... 0.00 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/url.sty.ltxml... 0.00 sec) 0.03 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/cleveref.sty.ltxml...
+Warning:missing_file:cleveref Can't find package cleveref
+	at cleveref.sty.ltxml; line 23
+	Anticipate undefined macros or environments
+	In Core::Gullet[@0x55eb6fdca100] /usr/share/perl5/LaTeXML/Package/cleveref.sty.ltxml; line 23
+ 0.02 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/booktabs.sty.ltxml... 0.00 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/subfig.sty.ltxml... 0.00 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/natbib.sty.ltxml... 0.01 sec)
+Warning:missing_file:mdframed Can't find package mdframed
+	at easyclass.cls; line 42 col 15 - line 42 col 15
+	Anticipate undefined macros or environments
+	In Core::Definition::Constructor[\Requir... /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 819
+(Loading /usr/share/perl5/LaTeXML/Package/amsthm.sty.ltxml... 0.00 sec)
+Warning:missing_file:libertine Can't find package libertine
+	at easyclass.cls; line 154 col 15 - line 154 col 15
+	Anticipate undefined macros or environments
+	In Core::Definition::Constructor[\Requir... /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 819
+Warning:missing_file:zi4 Can't find package zi4
+	at easyclass.cls; line 155 col 15 - line 155 col 15
+	Anticipate undefined macros or environments
+	In Core::Definition::Constructor[\Requir... /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 819
+(Loading /usr/share/perl5/LaTeXML/Package/newtxmath.sty.ltxml...
+(Loading /usr/share/perl5/LaTeXML/Package/txfonts.sty.ltxml... 0.01 sec) 0.02 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/fontenc.sty.ltxml...
+(Loading /usr/share/perl5/LaTeXML/Package/t1enc.def.ltxml...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def...
+(Processing definitions /usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu... 0.03 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/t1.fontmap.ltxml... 0.00 sec) 0.07 sec) 0.07 sec) 0.07 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/parskip.sty.ltxml... 0.00 sec)
+(Processing definitions /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/scrpage2.sty...
+Error:expected:{} Missing argument {} for Core::Definition::Expandable[\@gobble {}]
+	at scrpage2.sty; line 170 col 1 - line 170 col 1
+	Ended at scrpage2.sty; line 170 col 1 - line 170 col 1
+	Input is empty
+	In Core::Definition::Expandable[\@gobble... /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 5212
+	 <= Core::Gullet[@0x55eb6fdca100] <= Core::Definition::Primitive[\GenericW... <= Core::Stomach[@0x55eb6fdeab98] <= ...
+Warning:latex:(scrpage2) Package scrpage2 Warning: \mainmatter defined without
+	at scrpage2.sty; line 170 col 1 - line 170 col 1
+	\if@mainmatter!\MessageBreakThis switch is obligatory for scrpage2 to omit\MessageBreakrunning head chapter numbers in front and\MessageBreakback matter and will be defined now
+	In Core::Definition::Primitive[\GenericW... /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 5295
+ 0.14 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/tikz.sty.ltxml...
+Warning:missing_file:tikz Can't find package tikz
+	at tikz.sty.ltxml; line 24
+	Anticipate undefined macros or environments
+	In Core::Gullet[@0x55eb6fdca100] /usr/share/perl5/LaTeXML/Package/tikz.sty.ltxml; line 24
+ 0.02 sec)
+Error:undefined:\usetikzlibrary The token T_CS[\usetikzlibrary] is not defined.
+	at easyclass.cls; line 184 col 15 - line 184 col 15
+	Defining it now as <ltx:ERROR/>
+	Next token is T_BEGIN[{] ( == T_BEGIN[{])
+	In Core::Gullet[@0x55eb6fdca100] /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/easyclass.cls; from line 184 col 16 to line 184 col 16
+	 <= Core::Definition::Constructor[\docume... <= Core::Stomach[@0x55eb6fdeab98] <= ...
+Error:undefined:\tikzstyle The token T_CS[\tikzstyle] is not defined.
+	at easyclass.cls; line 185 col 10 - line 185 col 10
+	Defining it now as <ltx:ERROR/>
+	Next token is T_BEGIN[{] ( == T_BEGIN[{])
+	In Core::Gullet[@0x55eb6fdca100] /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/easyclass.cls; from line 185 col 11 to line 185 col 11
+	 <= Core::Definition::Constructor[\docume... <= Core::Stomach[@0x55eb6fdeab98] <= ...
+Info:ignore:\email Ignoring redefinition (\newcommand) of '\email'
+	at easyclass.cls; line 215 col 0 - line 215 col 1
+Info:ignore:\affiliation Ignoring redefinition (\newcommand) of '\affiliation'
+	at easyclass.cls; line 220 col 0 - line 220 col 1
+(Loading /usr/share/perl5/LaTeXML/Package/braket.sty.ltxml... 0.01 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/indentfirst.sty.ltxml... 0.00 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/multirow.sty.ltxml... 0.00 sec)
+(Loading /usr/share/perl5/LaTeXML/Package/circuitikz.sty.ltxml...
+Warning:missing_file:circuitikz Can't find package circuitikz
+	at circuitikz.sty.ltxml; line 24
+	Anticipate undefined macros or environments
+	In Core::Gullet[@0x55eb6fdca100] /usr/share/perl5/LaTeXML/Package/circuitikz.sty.ltxml; line 24
+ 0.02 sec)
+Warning:missing_file:quantikz Can't find package quantikz
+	at easyclass.cls; line 374 col 0 - line 374 col 0
+	Anticipate undefined macros or environments
+	In Core::Definition::Constructor[\usepac... /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 806
+ 0.90 sec)
+Error:expected:{} Missing argument {} for Core::Definition::Expandable[\@gobble {}]
+	at main.tex; line 4 col 0 - line 4 col 16
+	Ended at main.tex; line 4 col 0 - line 4 col 16
+	Input is empty
+	In Core::Definition::Expandable[\@gobble... /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 5212
+	 <= Core::Gullet[@0x55eb6fdca100] <= Core::Definition::Primitive[\GenericW... <= Core::Stomach[@0x55eb6fdeab98] <= ...
+Warning:latex:(scrpage2) Package scrpage2 Warning: seems you are using a very small headheight.\MessageBreakIf you get overfull \vbox warnings at almost every\MessageBreakpage, you should increase headheight e.g. writing\MessageBreak \setlength{\headheight}{1.1\baselineskip}\MessageBreakinto the preamble of your document.\MessageBreakA better solution would be to use typearea package
+	at main.tex; line 4 col 0 - line 4 col 16
+	In Core::Definition::Primitive[\GenericW... /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 5295
+Info:unexpected:options Unused global options: twoside=false
+	at main.tex; line 4 col 0 - line 4 col 16
+Info:unexpected:titlepage When using titlepage, Frontmatter will not be well-structured
+	at main.tex; line 5 col 0 - line 5 col 18
+(Processing content /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/chap-classic-quantum.tex...
+Warning:undefined:chapter Counter 'chapter' was not defined; assuming 0
+	at chap-classic-quantum.tex; line 5 col 0 - line 5 col 43
+	In Core::Definition::Constructor[\@@numb... /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 648
+Error:undefined:\thechapter The token T_CS[\thechapter] is not defined.
+	at chap-classic-quantum.tex; line 5 col 0 - line 5 col 43
+	Defining it now as <ltx:ERROR/>
+	Input is empty
+	In Core::Gullet[@0x55eb6fdca100] /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/chap-classic-quantum.tex; from line 5 col 0 to line 5 col 43
+	 <= Core::Stomach[@0x55eb6fdeab98] <= Core::Definition::Constructor[\@@numb... <= Core::Stomach[@0x55eb6fdeab98] <= ...
+ 0.16 sec)
+(Processing content /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/chap-quantum-mechanics.tex...
+Error:undefined:\tikz The token T_CS[\tikz] is not defined.
+	at chap-quantum-mechanics.tex; line 69 col 27 - line 69 col 27
+	Defining it now as <ltx:ERROR/>
+	Next token is T_CS[\draw] ( == undef) more: [->,
+line join=round,
+decorate, decoration={
+zigzag,
+segment length=4,
+amplitude=.9,
+post=lineto,
+post length=2pt
+}] (0,0) -- (2,0);
+	In Core::Gullet[@0x55eb6fdca100] /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/chap-quantum-mechanics.tex; from line 69 col 27 to line 69 col 27
+	 <= Core::Stomach[@0x55eb6fdeab98] <= Core::Definition::Constructor[\raiseb... <= Core::Stomach[@0x55eb6fdeab98] <= ...
+Error:undefined:\draw The token T_CS[\draw] is not defined.
+	at chap-quantum-mechanics.tex; line 69 col 27 - line 69 col 27
+	Defining it now as <ltx:ERROR/>
+	Next token is T_OTHER[[] ( == T_OTHER[[]) more: ->,
+line join=round,
+decorate, decoration={
+zigzag,
+segment length=4,
+amplitude=.9,
+post=lineto,
+post length=2pt
+}] (0,0) -- (2,0);
+	In Core::Gullet[@0x55eb6fdca100] /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/chap-quantum-mechanics.tex; from line 69 col 27 to line 69 col 27
+	 <= Core::Stomach[@0x55eb6fdeab98] <= Core::Definition::Constructor[\raiseb... <= Core::Stomach[@0x55eb6fdeab98] <= ...
+ 1.89 sec)
+(Processing content /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/chap-quantum-gates.tex...
+Error:undefined:{circuitikz} The environment {circuitikz} is not defined.
+	at chap-quantum-gates.tex; line 71 col 0 - line 71 col 20
+	Next token is T_SPACE[U+000a/LF] ( == T_SPACE[U+000a/LF])
+	In Core::Definition::Expandable[\begin {}] /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 180
+	 <= Core::Gullet[@0x55eb6fdca100] <= Core::Stomach[@0x55eb6fdeab98] <= Core::Definition::Constructor[\begin{... <= ...
+Error:undefined:{circuitikz} The environment {circuitikz} is not defined.
+	at chap-quantum-gates.tex; line 119 col 0 - line 119 col 20
+	Next token is T_SPACE[U+000a/LF] ( == T_SPACE[U+000a/LF])
+	In Core::Definition::Expandable[\begin {}] /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 180
+	 <= Core::Gullet[@0x55eb6fdca100] <= Core::Stomach[@0x55eb6fdeab98] <= Core::Definition::Constructor[\begin{... <= ...
+Error:undefined:{circuitikz} The environment {circuitikz} is not defined.
+	at chap-quantum-gates.tex; line 163 col 0 - line 163 col 20
+	Next token is T_SPACE[U+000a/LF] ( == T_SPACE[U+000a/LF])
+	In Core::Definition::Expandable[\begin {}] /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 180
+	 <= Core::Gullet[@0x55eb6fdca100] <= Core::Stomach[@0x55eb6fdeab98] <= Core::Definition::Constructor[\begin{... <= ...
+Error:undefined:{circuitikz} The environment {circuitikz} is not defined.
+	at chap-quantum-gates.tex; line 208 col 0 - line 208 col 20
+	Next token is T_SPACE[U+000a/LF] ( == T_SPACE[U+000a/LF])
+	In Core::Definition::Expandable[\begin {}] /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 180
+	 <= Core::Gullet[@0x55eb6fdca100] <= Core::Stomach[@0x55eb6fdeab98] <= Core::Definition::Constructor[\begin{... <= ...
+Warning:undefined:\@captype Counter '\@captype' was not defined; assuming 0
+	at chap-quantum-gates.tex; line 247 col 0 - line 247 col 28
+	In Core::Definition::Primitive[\addtocou... /usr/share/perl5/LaTeXML/Package/calc.sty.ltxml; line 40
+Error:undefined:{circuitikz} The environment {circuitikz} is not defined.
+	at chap-quantum-gates.tex; line 271 col 0 - line 271 col 20
+	Next token is T_SPACE[U+000a/LF] ( == T_SPACE[U+000a/LF])
+	In Core::Definition::Expandable[\begin {}] /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 180
+	 <= Core::Gullet[@0x55eb6fdca100] <= Core::Stomach[@0x55eb6fdeab98] <= Core::Definition::Constructor[\begin{... <= ...
+Error:unexpected:\endgroup Attempt to close non-boxing group
+	at chap-quantum-gates.tex; line 287 col 0 - line 287 col 18
+	current frame is boxing group due to T_BEGIN[{] chap-quantum-gates.tex; line 286 col 46 - line 286 col 46
+	In Core::Stomach[@0x55eb6fdeab98] /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/chap-quantum-gates.tex; from line 287 col 0 to line 287 col 18
+	 <= Core::Definition::Primitive[\endgroup] <= Core::Stomach[@0x55eb6fdeab98] <= Core::Definition::Primitive[Begin] <= ...
+Error:unexpected:\end{minipage} Can't close environment minipage;
+	at chap-quantum-gates.tex; line 289 col 0 - line 289 col 15
+	Current are:
+	circuitikz chap-quantum-gates.tex; line 271 col 0 - line 271 col 21
+	minipage chap-quantum-gates.tex; line 269 col 17 - line 269 col 17
+	example chap-quantum-gates.tex; line 267 col 15 - line 267 col 15
+	document main.tex; line 4 col 0 - line 4 col 16
+	In Core::Definition::Constructor[\end{mi... /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 4548
+	 <= Core::Stomach[@0x55eb6fdeab98] <= Core::Definition::Primitive[Begin] <= Core::Stomach[@0x55eb6fdeab98] <= ...
+Error:unexpected:\end{example} Can't close environment example;
+	at chap-quantum-gates.tex; line 321 col 0 - line 321 col 13
+	Current are:
+	circuitikz chap-quantum-gates.tex; line 271 col 0 - line 271 col 21
+	minipage chap-quantum-gates.tex; line 269 col 17 - line 269 col 17
+	example chap-quantum-gates.tex; line 267 col 15 - line 267 col 15
+	document main.tex; line 4 col 0 - line 4 col 16
+	In Core::Definition::Constructor[\end{ex... /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/chap-quantum-mechanics.tex; from line 216 col 12 to line 216 col 12
+	 <= Core::Stomach[@0x55eb6fdeab98] <= Core::Definition::Primitive[Begin] <= Core::Stomach[@0x55eb6fdeab98] <= ...
+ 1.68 sec)
+(Processing content /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/chap-quantum-algorithms.tex... 0.58 sec)
+(Processing content /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/chap-quantum-cryptography.tex... 2.32 sec)
+Warning:unexpected:\end{document} Attempt to end document with open groups, environments or conditionals
+	at main.tex; line 25 col 0 - line 25 col 14
+	Group opened by { chap-quantum-gates.tex; line 282 col 47 - line 282 col 47
+	Environment circuitikz opened by \begingroup chap-quantum-gates.tex; line 271 col 0 - line 271 col 21
+	Environment minipage opened by \begin{minipage} chap-quantum-gates.tex; line 269 col 17 - line 269 col 17
+	Environment example opened by \begin{example} chap-quantum-gates.tex; line 267 col 15 - line 267 col 15
+	Conditional \ifxstarted chap-quantum-cryptography.tex; line 555 col 4 - line 555 col 4
+	Conditional \ifxstarted chap-quantum-algorithms.tex; line 183 col 4 - line 183 col 4
+	Conditional \ifxstarted chap-quantum-gates.tex; line 563 col 4 - line 563 col 4
+	Conditional \ifxstarted chap-quantum-mechanics.tex; line 398 col 4 - line 398 col 4
+	Conditional \ifxstarted chap-classic-quantum.tex; line 28 col 4 - line 28 col 4
+	In Core::Definition::Constructor[\end{do... /usr/share/perl5/LaTeXML/Package/LaTeX.pool.ltxml; line 395
+ 7.75 sec) 7.77 sec)
+(Building...
+(Loading compiled schema /usr/share/perl5/LaTeXML/resources/RelaxNG/LaTeXML.model... 0.01 sec)
+Info:malformed:id Duplicated attribute xml:id
+	at chap-quantum-gates.tex; line 12 col 0 - line 12 col 23
+	Using id='X.Thmtheorem1a' on <ltx:theorem _box="\begin{definition}[Bit]
+	A {bit..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_definition" inlist="thm theorem:definition"/>
+	id='X.Thmtheorem1' already set on <ltx:theorem _box="LaTeXML::Core::Whatsit=HASH(0x..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_note" inlist="thm theorem:note" xml:id="X.Thmtheorem1" _ID_counter_p_="1">...
+Info:malformed:id Duplicated attribute xml:id
+	at chap-quantum-gates.tex; line 24 col 0 - line 24 col 25
+	Using id='X.Thmtheorem2a' on <ltx:theorem _box="\begin{definition}[Qubit]
+	A {q..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_definition" inlist="thm theorem:definition"/>
+	id='X.Thmtheorem2' already set on <ltx:theorem _box="LaTeXML::Core::Whatsit=HASH(0x..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_example" inlist="thm theorem:example" xml:id="X.Thmtheorem2" _ID_counter_p_="1">...
+Info:malformed:id Duplicated attribute xml:id
+	at chap-quantum-gates.tex; line 41 col 0 - line 41 col 24
+	Using id='X.Thmtheorem3a' on <ltx:theorem _box="\begin{definition}[Byte]
+	The {..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_definition" inlist="thm theorem:definition"/>
+	id='X.Thmtheorem3' already set on <ltx:theorem _box="LaTeXML::Core::Whatsit=HASH(0x..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_example" inlist="thm theorem:example" xml:id="X.Thmtheorem3" _ID_counter_p_="1">...
+Info:malformed:id Duplicated attribute xml:id
+	at chap-quantum-gates.tex; line 47 col 0 - line 47 col 26
+	Using id='X.Thmtheorem4a' on <ltx:theorem _box="\begin{definition}[Qubyte]
+	The..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_definition" inlist="thm theorem:definition"/>
+	id='X.Thmtheorem4' already set on <ltx:theorem _box="LaTeXML::Core::Whatsit=HASH(0x..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_note" inlist="thm theorem:note" xml:id="X.Thmtheorem4" _ID_counter_p_="1">...
+Info:malformed:id Duplicated attribute xml:id
+	at chap-quantum-algorithms.tex; line 52 col 29 - line 52 col 29
+	Using id='X.Thmtheorem1b' on <ltx:theorem _box="\begin{example}[NOT (X) gate]{..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_example" inlist="thm theorem:example"/>
+	id='X.Thmtheorem1' already set on <ltx:theorem _box="LaTeXML::Core::Whatsit=HASH(0x..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_note" inlist="thm theorem:note" xml:id="X.Thmtheorem1" _ID_counter_p_="1">...
+Info:malformed:id Duplicated attribute xml:id
+	at chap-quantum-algorithms.tex; line 81 col 34 - line 81 col 34
+	Using id='X.Thmtheorem2b' on <ltx:theorem _box="\begin{example}[Hardmard (H) g..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_example" inlist="thm theorem:example"/>
+	id='X.Thmtheorem2' already set on <ltx:theorem _box="LaTeXML::Core::Whatsit=HASH(0x..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_example" inlist="thm theorem:example" xml:id="X.Thmtheorem2" _ID_counter_p_="1">...
+Info:malformed:id Duplicated attribute xml:id
+	at chap-quantum-cryptography.tex; line 438 col 46 - line 438 col 46
+	Using id='X.Thmtheorem1c' on <ltx:theorem _box="\begin{example}[$\ket{00}\maps..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_example" inlist="thm theorem:example"/>
+	id='X.Thmtheorem1' already set on <ltx:theorem _box="LaTeXML::Core::Whatsit=HASH(0x..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_note" inlist="thm theorem:note" xml:id="X.Thmtheorem1" _ID_counter_p_="1">...
+Info:malformed:id Duplicated attribute xml:id
+	at chap-quantum-cryptography.tex; line 519 col 70 - line 519 col 70
+	Using id='X.Thmtheorem2c' on <ltx:theorem _box="\begin{example}[Bob's transfor..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_example" inlist="thm theorem:example"/>
+	id='X.Thmtheorem2' already set on <ltx:theorem _box="LaTeXML::Core::Whatsit=HASH(0x..." _font="Font[serif,medium,upright,10,b..." class="ltx_theorem_example" inlist="thm theorem:example" xml:id="X.Thmtheorem2" _ID_counter_p_="1">...
+ 7.20 sec)
+(Rewriting... 0.17 sec)
+(Math Parsing 562 formulae ......
+Warning:not_parsed:ADDOP.RELOP>OPEN MathParser failed to match rule 'Anything'
+	at chap-quantum-cryptography.tex; line 124 col 0 - line 126 col 14
+	In "\begin{equation}+=\{\ket{\rightarrow},\ket{\uparrow}\}=\big{\{}[1,0]^{\top},[0%
+	,1]^{\top}\big{\}}\end{equation}"
+	+[[ADDOP]] =[[RELOP]]
+	        > \{[[OPEN]] \ket{\rightarrow}[[UNKNOWN]] ,[[PUNCT]] \ket{\uparrow}[[UNKNOWN]] \}[[CLOSE]] =[[RELOP]] \{[[OPEN]] [[[OPEN]] 1[[NUMBER]] ,[[PUNCT]] 0[[NUMBER]] ][[CLOSE]] ^{\top}[[POSTSUPERSCRIPT]] ,[[PUNCT]] [[[OPEN]] 0[[NUMBER]] ,[[PUNCT]] 1[[NUMBER]] ][[CLOSE]] ^{\top}[[POSTSUPERSCRIPT]] \}[[CLOSE]]
+Warning:not_parsed:MULOP.RELOP>OPEN MathParser failed to match rule 'Anything'
+	at chap-quantum-cryptography.tex; line 128 col 0 - line 130 col 14
+	In "\begin{equation}\times=\{\ket{\nwarrow},\ket{\nearrow}\}=\Big{\{}\frac{1}{%
+	\sqrt{2}}[-1,1]^{\top},\frac{1}{\sqrt{2}}[1,1]^{\top}\Big{\}}\end{equation}"
+	×[[MULOP]] =[[RELOP]]
+	        > \{[[OPEN]] \ket{\nwarrow}[[UNKNOWN]] ,[[PUNCT]] \ket{\nearrow}[[UNKNOWN]] \}[[CLOSE]] =[[RELOP]] \{[[OPEN]] \frac{1}{\sqrt{2}}[[UNKNOWN]] [[[OPEN]] -[[ADDOP]] 1[[NUMBER]] ,[[PUNCT]] 1[[NUMBER]] ][[CLOSE]] ^{\top}[[POSTSUPERSCRIPT]] ,[[PUNCT]] \frac{1}{\sqrt{2}}[[UNKNOWN]] [[[OPEN]] 1[[NUMBER]] ,[[PUNCT]] 1[[NUMBER]] ][[CLOSE]] ^{\top}[[POSTSUPERSCRIPT]] \}[[CLOSE]]
+Warning:not_parsed:ATOM.NUMBER>CLOSE MathParser failed to match rule 'Anything'
+	at chap-quantum-cryptography.tex; line 416 col 60 - line 416 col 60
+	In "$\@@ENDINLINEMATH"
+	\sqrt{(}[[UNKNOWN]] 2[[NUMBER]]
+	        > )[[CLOSE]]
+Warning:not_parsed:ATOM.NUMBER>CLOSE MathParser failed to match rule 'Anything'
+	at chap-quantum-cryptography.tex; line 417 col 59 - line 417 col 59
+	\sqrt{(}[[UNKNOWN]] 2[[NUMBER]]
+	        > )[[CLOSE]]
+Warning:not_parsed:ATOM.NUMBER>CLOSE MathParser failed to match rule 'Anything'
+	at chap-quantum-cryptography.tex; line 416 col 60 - line 416 col 60
+	In "$\displaystyle=\frac{\ket{0_{A}1_{B}}+\ket{1_{A}0_{B}}}{\sqrt{(}2)},\quad\ket{%
+	\Psi^{-}}=\frac{\ket{0_{A}1_{B}}-\ket{1_{A}0_{B}}}{\sqrt{(}2)},\@@ENDINLINEMATH"
+	\sqrt{(}[[UNKNOWN]] 2[[NUMBER]]
+	        > )[[CLOSE]]
+Warning:not_parsed:ATOM.NUMBER>CLOSE MathParser failed to match rule 'Anything'
+	at chap-quantum-cryptography.tex; line 417 col 59 - line 417 col 59
+	\sqrt{(}[[UNKNOWN]] 2[[NUMBER]]
+	        > )[[CLOSE]]
+Warning:not_parsed:ATOM.NUMBER>CLOSE MathParser failed to match rule 'Anything'
+	at chap-quantum-cryptography.tex; line 418 col 60 - line 418 col 60
+	In "$\@@ENDINLINEMATH"
+	\sqrt{(}[[UNKNOWN]] 2[[NUMBER]]
+	        > )[[CLOSE]]
+Warning:not_parsed:ATOM.NUMBER>CLOSE MathParser failed to match rule 'Anything'
+	at chap-quantum-cryptography.tex; line 419 col 0 - line 419 col 59
+	\sqrt{(}[[UNKNOWN]] 2[[NUMBER]]
+	        > )[[CLOSE]]
+Warning:not_parsed:ATOM.NUMBER>CLOSE MathParser failed to match rule 'Anything'
+	at chap-quantum-cryptography.tex; line 418 col 60 - line 418 col 60
+	In "$\displaystyle=\frac{\ket{0_{A}0_{B}}+\ket{1_{A}1_{B}}}{\sqrt{(}2)},\quad\ket{%
+	\Phi^{-}}=\frac{\ket{0_{A}0_{B}}-\ket{1_{A}1_{B}}}{\sqrt{(}2)}\@@ENDINLINEMATH"
+	\sqrt{(}[[UNKNOWN]] 2[[NUMBER]]
+	        > )[[CLOSE]]
+Warning:not_parsed:ATOM.NUMBER>CLOSE MathParser failed to match rule 'Anything'
+	at chap-quantum-cryptography.tex; line 419 col 0 - line 419 col 59
+	\sqrt{(}[[UNKNOWN]] 2[[NUMBER]]
+	        > )[[CLOSE]]
+Warning:not_parsed:RELOP.ATOM>OPEN MathParser failed to match rule 'Anything'
+	In "$\@@ENDINLINEMATH"
+	=[[RELOP]] \frac{1}{2}[[UNKNOWN]]
+	        > [[[OPEN]] \ket{00}[[UNKNOWN]] ([[OPEN]] α[[UNKNOWN]] \ket{0}[[UNKNOWN]] +[[ADDOP]] β[[UNKNOWN]] \ket{1}[[UNKNOWN]] )[[CLOSE]] +[[ADDOP]] \ket{01}[[UNKNOWN]] ([[OPEN]] β[[UNKNOWN]] \ket{0}[[UNKNOWN]] +[[ADDOP]] α[[UNKNOWN]] \ket{1}[[UNKNOWN]] )[[CLOSE]]
+Warning:not_parsed:RELOP.ATOM>OPEN MathParser failed to match rule 'Anything'
+	at String; line 0 col 0 - line 0 col 0
+	In "$\displaystyle=\frac{1}{2}[\ket{00}(\alpha\ket{0}+\beta\ket{1})+\ket{01}(\beta%
+	\ket{0}+\alpha\ket{1})\@@ENDINLINEMATH"
+	=[[RELOP]] \frac{1}{2}[[UNKNOWN]]
+	        > [[[OPEN]] \ket{00}[[UNKNOWN]] ([[OPEN]] α[[UNKNOWN]] \ket{0}[[UNKNOWN]] +[[ADDOP]] β[[UNKNOWN]] \ket{1}[[UNKNOWN]] )[[CLOSE]] +[[ADDOP]] \ket{01}[[UNKNOWN]] ([[OPEN]] β[[UNKNOWN]] \ket{0}[[UNKNOWN]] +[[ADDOP]] α[[UNKNOWN]] \ket{1}[[UNKNOWN]] )[[CLOSE]]
+Warning:not_parsed:UNKNOWN.ATOM.CLOSE>CLOSE MathParser failed to match rule 'Anything'
+	In "$\@@ENDINLINEMATH"
+	+[[ADDOP]] \ket{10}[[UNKNOWN]] ([[OPEN]] α[[UNKNOWN]] \ket{0}[[UNKNOWN]] -[[ADDOP]] β[[UNKNOWN]] \ket{1}[[UNKNOWN]] )[[CLOSE]] +[[ADDOP]] \ket{11}[[UNKNOWN]] ([[OPEN]] -[[ADDOP]] β[[UNKNOWN]] \ket{0}[[UNKNOWN]] +[[ADDOP]] α[[UNKNOWN]] \ket{1}[[UNKNOWN]] )[[CLOSE]]
+	        > ][[CLOSE]]
+Warning:not_parsed:UNKNOWN.ATOM.CLOSE>CLOSE MathParser failed to match rule 'Anything'
+	at String; line 0 col 0 - line 0 col 0
+	In "$\displaystyle\quad+\ket{10}(\alpha\ket{0}-\beta\ket{1})+\ket{11}(-\beta\ket{0%
+	}+\alpha\ket{1})]\@@ENDINLINEMATH"
+	+[[ADDOP]] \ket{10}[[UNKNOWN]] ([[OPEN]] α[[UNKNOWN]] \ket{0}[[UNKNOWN]] -[[ADDOP]] β[[UNKNOWN]] \ket{1}[[UNKNOWN]] )[[CLOSE]] +[[ADDOP]] \ket{11}[[UNKNOWN]] ([[OPEN]] -[[ADDOP]] β[[UNKNOWN]] \ket{0}[[UNKNOWN]] +[[ADDOP]] α[[UNKNOWN]] \ket{1}[[UNKNOWN]] )[[CLOSE]]
+	        > ][[CLOSE]]
+ 9.21 sec)
+Math parsing succeeded:
+   ltx:XMath: 556/562
+   ltx:XMArg: 2091/2099
+   ltx:XMWrap: 606/615
+Symbols assumed as simple identifiers (with # of occurences):
+   'AND' (3), 'D{italic}' (2), 'E{italic}' (4), 'H' (1), 'H{bold}' (4), 'K{italic}' (32), 'NOT' (1), 'Omega' (11), 'Phi' (2), 'P{bold}' (3), 'P{italic}' (17), 'R{italic}' (2), 'T{italic}' (23), 'U{bold}' (1), 'U{italic}' (2), 'X' (1), 'X{bold}' (2), 'X{italic}' (1), 'Y' (1), 'Z' (1), 'alpha' (40), 'beta' (30), 'b{italic}' (7), 'c{italic}' (72), 'd{italic}' (2), 'epsilon' (1), 'e{italic}' (1), 'f{italic}' (15), 'g{italic}' (1), 'i{italic}' (1), 'k{italic}' (3), 'lambda' (14), 'm{italic}' (12), 'n{italic}' (37), 'o{italic}' (2), 'phi' (1), 'pi' (1), 'p{italic}' (23), 'sigma' (26), 'theta' (10), 'u{italic}' (1), 'w{italic}' (1), 'x{italic}' (26), 'ℂ' (18), 'ℝ' (1), '−' (3), '✓' (12)
+Set MATHPARSER_SPECULATE to speculate on possible notations.
+(Finalizing... 1.09 sec)
+Conversion complete: 27 warnings; 15 errors; 6 undefined macros[{circuitikz}, \usetikzlibrary, \draw, \tikzstyle, \thechapter, \tikz]; 8 missing files[circuitikz.sty, scrbook.cls, zi4.sty, mdframed.sty, cleveref.sty, libertine.sty, tikz.sty, quantikz.sty] (See /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/main.latexml.log)
+(post-processing...
+(Scan doc.html processing...
+Scan: DBStatus: 2313/0 objects
+ 0.21 sec)
+(CrossRef doc.html processing...
+Warning:expected:ids Missing Target for Label: LABEL:ex:H_gate
+	In Post::CrossRef[@0x55eb702865c8] ->process
+ 0.19 sec)
+(Graphics doc.html 52 to process...
+Error:imageprocessing:Read Image processing operation Read (/mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/figures/line-position.pdf) returned Exception 499: attempt to perform an operation not allowed by the security policy `PDF' @ error/constitute.c/IsCoderAuthorized/421
+	In Post::Graphics[@0x55eb730e36f8] ->transformGraphic
+Warning:expected:image Couldn't get usable image for /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/figures/line-position.pdf
+	In Post::Graphics[@0x55eb730e36f8] ->transformGraphic
+Warning:expected:source No graphic source found; skipping
+	source was SGA-0
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was SGA-180
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was SGA-90
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was SGA-theta
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was measurement-comparison
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was observing-collapse
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was observing-order
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was unitary-operators
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was qubit-bit
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was bits-state
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was sequential
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was parallel
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was mixed
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was cnot
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was toffoli
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was toffoli-universal
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was fredkin
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was gate-relation
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was quantum-computing
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was balanced-constant
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was solution-classic
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was unit-circle-state-machine
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was quantum-circuit-example
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was cryptography-model
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was caesar-cipher
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was left-shift-3
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was letter-distribution
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was otp
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was DH-color
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was DH-example
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was private-key-cryptography
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was public-key-cryptography
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was plus-basis
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was times-basis
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was BB84-step1
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was BB84-step2
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was BB84-step3
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was BB84-step4
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was B92-step1
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was B92-step2
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was EPR-step2
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was EPR-step3
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was canonical-basis
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was non-canonical-basis
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was Bell-circuit
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was qt-step2
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was qt-step3
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was qt-step5
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+Warning:expected:source No graphic source found; skipping
+	source was qt-framework
+	In Post::Graphics[@0x55eb730e36f8] ->processGraphic
+ 0.49 sec)
+(MathML::Presentation doc.html 562 to process...
+converted 562 Maths
+ 0.78 sec)
+(XSLT[using LaTeXML-html5.xsl] doc.html processing... 0.73 sec)
+(Writer doc.html processing... 0.02 sec) 2.44 sec)
+Post-processing complete: 51 warnings; 1 error (See /mnt/e/CODING/Quantum-Computing-Book/Lecture Note for Quantum Computing/main.latexml.log)
+processing finished Sat Jan 20 21:27:42 2024
+Status:conversion:2

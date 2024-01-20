@@ -1,0 +1,2 @@
+$pdflatex = "rm tikz-cache/*.pdf; pdflatex -shell-escape -synctex=1 %O %S; htlatex %S 'htlatex/htlatex.cfg,MyFonts,NoFonts' '' '' -shell-escape > output.txt";
+END { system('zip -r allfiles.zip . -x *.cache*'); }
