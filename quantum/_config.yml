@@ -29,10 +29,25 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "post"
+      author: "Ziang Tian"
+      author_profile: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
